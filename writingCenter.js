@@ -11,9 +11,9 @@ BreakoutICS.writingCenter = {
     },
     create: function() {
 
-        var mathLabMap = this.game.add.image(this.game.width / 2+200, this.game.height / 2, "writingCenterMap");
-        mathLabMap.anchor.set(0.5);
-        mathLabMap.scale.setTo(1.3, 1.3);
+        var writingCenterMap = this.game.add.image(this.game.width / 2+200, this.game.height / 2, "writingCenterMap");
+        writingCenterMap.anchor.set(0.5);
+        writingCenterMap.scale.setTo(1.3, 1.3);
 
 
         var blueBoxHeight = 1.7;
