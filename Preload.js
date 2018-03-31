@@ -45,7 +45,7 @@ BreakoutICS.PreloadState = {
         this.load.image('mathLabMap', 'assets/sprites/mathLabMap.png');
         this.load.image('mathLabTutor', 'assets/sprites/mathLabTutor.png');
         this.load.image('mathLabPic', 'assets/sprites/mathLabPic.jpg');
-        this.load.image('writingCenterMap', 'assets/sprites/writingCenterMap.jpg');
+        this.load.image('writingCenterMap', 'assets/sprites/writingCenterMap.png');
         this.load.image('writingTutor', 'assets/sprites/writingTutor.png');
         this.load.image('writingCenterFront', 'assets/sprites/writingCenterFront.jpg');
         this.load.image('mapOfLeeward', 'assets/sprites/mapOfLeeward.jpg');
