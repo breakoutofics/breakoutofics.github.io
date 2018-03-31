@@ -50,7 +50,7 @@ BreakoutICS.game.state.add("writingTest", BreakoutICS.writingTest);
 BreakoutICS.game.state.add("mapOfLeeward", BreakoutICS.mapOfLeeward);
 BreakoutICS.game.state.add("mapOfLeewardLower", BreakoutICS.mapOfLeewardLower);
 BreakoutICS.game.state.add("LRC", BreakoutICS.LRC);
-BreakoutICS.game.state.add("LRCTutor", BreakoutICS.LRCTutor);
+BreakoutICS.game.state.add("lrcTutor", BreakoutICS.lrcTutor);
 BreakoutICS.game.state.add("LRCTest", BreakoutICS.LRCTest);
 
 BreakoutICS.game.state.add("codingScreenLRC", BreakoutICS.codingScreenLRC);

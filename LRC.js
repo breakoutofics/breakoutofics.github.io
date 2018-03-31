@@ -172,7 +172,7 @@ BreakoutICS.LRC = {
         this.game.time.events.add(Phaser.Timer.SECOND * 0.4, function() {
             console.log(BreakoutICS.game.global);
             //this.state.start("infoTwo");
-            this.game.state.start("LRCTutor", Phaser.Plugin.StateTransition.Out.SlideRight, Phaser.Plugin.StateTransition.In.SlideRight);
+            this.game.state.start("lrcTutor", Phaser.Plugin.StateTransition.Out.SlideRight, Phaser.Plugin.StateTransition.In.SlideRight);
 
             //this.fade("PlayGame");
         }, this);

@@ -1,6 +1,6 @@
 var BreakoutICS = BreakoutICS || {};
 
-BreakoutICS.LRCTutor = {
+BreakoutICS.lrcTutor = {
 
     init: function() {
         this.talkBeep = this.game.add.audio('talkBeep');
