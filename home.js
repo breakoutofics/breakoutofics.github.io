@@ -122,9 +122,9 @@ BreakoutICS.home = {
             "\t\t\t\t",
             "Peer Mentor: Check out",
             "\t\t\t\tLeeward's Academic Resources",
-            "\t\t\t\tthey'll give you guidance on your",
-            "\t\t\t\tassignemnts.  When you're done", 
-            "\t\t\t\tyou can participate in",
+            "\t\t\t\tthey offer guidance on your",
+            "\t\t\t\tassignemnts, and when you're done", 
+            "\t\t\t\tyou'll be able to participate in",
             "\t\t\t\tthe BREAKOUT OF ICS Event.",
             "\t\t\t\t",
 

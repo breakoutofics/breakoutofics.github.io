@@ -103,7 +103,10 @@ BreakoutICS.winScreenState = {
             "THE ICS CHALLENGE",
             "",
             "1 prize per student",
-            "The first 3 winners get a prize"
+            "The first 3 winners get a prize",
+            "",
+            "Programmed by Travis Hipolito with help",
+            "and Ideas from Daniel Cordial"
 
         ];
 
