@@ -372,7 +372,7 @@ BreakoutICS.winScreenState = {
             "WooHooo!",
             "You Rock!",
             "Programmed in javascript!",
-            "All artwork is from google images"
+            "Artwork from google images"
         ];
 
         this.momRandomHelpPls = Phaser.ArrayUtils.getRandomItem(this.momHelpPls);

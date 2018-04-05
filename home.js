@@ -138,7 +138,7 @@ BreakoutICS.home = {
         this.wordIndex = 0;
         this.lineIndex = 0;
         this.wordDelay = 120;
-        this.lineDelay = 800;
+        this.lineDelay = 200;
 
 
 
