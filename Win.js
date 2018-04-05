@@ -101,10 +101,9 @@ BreakoutICS.winScreenState = {
             "and say",
             "I BROKE OUT OF", 
             "THE ICS CHALLENGE",
-            "The first 3 winners get a prize",
-            "Programmed by Travis H. with help",
-            "and Ideas from Daniel, Willy, and Rob!",
-            "Shout out to the ICS HUI CLUB!"
+            "first 3 winners get a prize",
+            "Programmed by Travis H.",
+            "Shout-out to the ICS HUI CLUB!"
 
         ];
 
