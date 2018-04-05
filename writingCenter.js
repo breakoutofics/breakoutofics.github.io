@@ -87,7 +87,7 @@ BreakoutICS.writingCenter = {
             "Located on the Second",
             "Floor of the Learning Commons",
             "www.leeward.hawaii.edu/mathlab",
-            "Phone: (808) -455-0409",
+            "Phone: (808) 455-0409",
             "Writing Center Hours",
             "Monday - Thursday: 8:00am - 4:30pm",
             "By appointment only 4:30pm - 6:00pm",

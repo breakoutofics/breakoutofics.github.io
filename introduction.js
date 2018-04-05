@@ -29,7 +29,7 @@ BreakoutICS.introduction = {
 
 
 
- // play button ----------------------------------------------------------------------------------------------------------------
+        // play button ----------------------------------------------------------------------------------------------------------------
         var playButton = this.game.add.button(this.game.width - 10, this.game.height, "infoButton", this.seePeerMentor, this);
         playButton.anchor.set(1);
         playButton.tint = 0xFCBE12;
@@ -80,12 +80,12 @@ BreakoutICS.introduction = {
         // };
 
 
-// TEXT Mary ----------------------------------------------------------------------------------------------------------------
+        // TEXT Mary ----------------------------------------------------------------------------------------------------------------
 
         this.style = {
             font: "19px Helvetica",
             // fill: "#CC0000"
-             fill: "#ffffff",
+            fill: "#ffffff",
             stroke: '#000000',
             strokeThickness: 6,
             //fill: '#FFC300'
@@ -93,14 +93,16 @@ BreakoutICS.introduction = {
         };
 
         this.introText = [
-            "This is Tim, he wants to participate",
-            "in the BREAKOUT of ICS Event ",
-           "",
-           "Help Tim complete",
-           "his assignments",
-           "and win the event!"
-
-
+            "This is Tim,",
+            "he's an ICS student at Leeward who",
+            "wants to participate in the", 
+            "BREAKOUT of ICS event.",
+            "Unfortunately", 
+            "Tim's having trouble with his",
+            "assignments.",
+            "Help Tim complete",
+            "his assignments",
+            "and win the event!"
         ];
 
         //The Math Lab's mission is to help Leeward CC MATH students develop proficiency in mathematical procedures by providing guidance on routine homework problems. 
@@ -109,8 +111,6 @@ BreakoutICS.introduction = {
         this.lineIndex = 0;
         this.wordDelay = 120;
         this.lineDelay = 300;
-
-
 
 
         // text.anchor.set(0.5);
@@ -123,7 +123,7 @@ BreakoutICS.introduction = {
 
         this.nextLine();
 
-// TEXT Mary END ----------------------------------------------------------------------------------------------------------------
+        // TEXT Mary END ----------------------------------------------------------------------------------------------------------------
 
 
 

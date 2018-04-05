@@ -92,7 +92,7 @@ BreakoutICS.codingScreenMath = {
 
         this.introText = [
             "Propery#1 - Multiplying powers with the same base",
-            "x^a * x^b = x^a+B",
+            "x^a * x^b = x^a+b",
             "When multiplying powers with the same base, add",
             "the exponents.",
             " ",

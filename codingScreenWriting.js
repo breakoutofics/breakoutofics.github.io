@@ -91,14 +91,13 @@ BreakoutICS.codingScreenWriting = {
         };
 
         this.introText = [
-            "Until they became conscious",
+            "\"Until they became conscious",
             "they will never rebel, and until after",
             "they have rebelled they cannot become ",
-            "conscious.",
-            " ",
-			"The choice for mankind lies between",
+            "conscious.\"",
+			"\"The choice for mankind lies between",
 			"freedom and happiness and for the great",
-			"bulk of mankind, happiness is better.",
+			"bulk of mankind, happiness is better.\"",
 			"George Orwell -1984"
 
         ];

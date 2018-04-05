@@ -179,7 +179,7 @@ BreakoutICS.writingTest = {
         this.introText = [
             "     ",
             "Well Done!",
-            "Before you go.  Here's a QUIZ on the LRC",
+            "Before you go.  Here's a QUIZ on the Writing Center",
             "\t\t\t\t\t\tWhere is the Writing Center Located?"
 
         ];

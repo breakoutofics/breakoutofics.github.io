@@ -276,17 +276,17 @@ BreakoutICS.GameState = {
             fill: '#FFC300'
         };
 
-        var title = "BREAKOUT OF ICS!";
+        var title = "BREAKOUT OF ICS OBSTACLE COURSE!";
 
 
 
-        var sign = this.game.add.text(400, this.game.world.height / 2 - 90, title, style);
+        var sign = this.game.add.text(700, this.game.world.height / 2 - 90, title, style);
         sign.anchor.set(0.5);
         //sign.setShadow(5, 5, 'rgba(0,0,0,0.5)', 15);
 
 
-        var secondTitleText = "use arrow keys to move and jump!";
-        var secondTextTitle = this.game.add.text(400, this.game.world.height / 2 - 50, secondTitleText, styleForSecondText);
+        var secondTitleText = "use arrow keys to move and squish the code bugs!";
+        var secondTextTitle = this.game.add.text(700, this.game.world.height / 2 - 50, secondTitleText, styleForSecondText);
         secondTextTitle.anchor.set(0.5);
         // secondTextTitle.setShadow(5, 5, 'rgba(0,0,0,0.5)', 15);
 

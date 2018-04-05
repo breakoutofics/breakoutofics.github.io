@@ -16,9 +16,9 @@ BreakoutICS.home = {
     },
     create: function() {
 
-        var backgroundPic = this.game.add.image(this.game.width / 2, this.game.height / 2, "cafe");
-        backgroundPic.anchor.set(0.5);
-        backgroundPic.scale.setTo(0.7, 0.7);
+        // var backgroundPic = this.game.add.image(this.game.width / 2, this.game.height / 2, "cafe");
+        // backgroundPic.anchor.set(0.5);
+        // backgroundPic.scale.setTo(0.7, 0.7);
 
         // var mathLabMap = this.game.add.image(this.game.width / 2, this.game.height / 2, "writingCenterFront");
         // mathLabMap.anchor.set(0.5);

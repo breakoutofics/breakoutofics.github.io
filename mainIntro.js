@@ -83,28 +83,28 @@ BreakoutICS.mainIntro = {
 
             "BreakOut!.codingScene = {",
 
-            "init: function() {",
+            "\t\t\t\t\t\tinit: function() {",
 
-            "this.break.world.setBounds(0, 0, 700, 414);",
+            "\t\t\t\t\t\t\t\t\t\t\t\tthis.break.world.setBounds(0, 0, 700, 414);",
 
-            "this.CODING_SPEED = 380;",
-            "this.ENGLISH_SPEED = 500;",
-            "this.MATH_SPEED = 150;",
-            "this.NETWORKING_SPEED = this.net.add.hex('1.9E3779B97F4A');",
-            "this.cursors = this.Breakout.input.keyboard.createCursorKeys();",
-            "},",
+            "\t\t\t\t\t\t\t\t\t\t\t\tthis.CODING_SPEED = 380;",
+            "\t\t\t\t\t\t\t\t\t\t\t\tthis.ENGLISH_SPEED = 500;",
+            "\t\t\t\t\t\t\t\t\t\t\t\tthis.MATH_SPEED = 150;",
+            "\t\t\t\t\t\t\t\t\t\t\t\tthis.NETWORKING_SPEED = this.net.add.hex('1.9E3779B97F4A');",
+            "\t\t\t\t\t\t\t\t\t\t\t\tthis.cursors = this.Breakout.input.keyboard.createCursorKeys();",
+            "\t\t\t\t\t\t},",
 
-            "create: function() {",
+            "\t\t\t\t\t\tcreate: function() {",
 
-            "this.Breakout.physics.arcade.gravity.y = 1000;",
+            "\t\t\t\t\t\t\t\t\t\t\t\tthis.Breakout.physics.arcade.gravity.y = 1000;",
 
-            "this.BreakOut!.Title.add(\"Chee Hee!!!\");",
-            "this.BreakOut!.Title!!!.anchor.set(0.5);",
-            "this.BreakOut!.Title!!!.scale.setTo(1, 1.1);",
-            "this.playerAlive = true;",
-            "this.loadLevel();",
+            "\t\t\t\t\t\t\t\t\t\t\t\tthis.BreakOut!.Title.add(\"Chee Hee!!!\");",
+            "\t\t\t\t\t\t\t\t\t\t\t\tthis.BreakOut!.Title!!!.anchor.set(0.5);",
+            "\t\t\t\t\t\t\t\t\t\t\t\tthis.BreakOut!.Title!!!.scale.setTo(1, 1.1);",
+            "\t\t\t\t\t\t\t\t\t\t\t\tthis.playerAlive = true;",
+            "\t\t\t\t\t\t\t\t\t\t\t\tthis.loadLevel();",
 
-            "},",
+            "\t\t\t\t\t\t},",
 
         ];
 
