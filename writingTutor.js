@@ -112,7 +112,7 @@ BreakoutICS.writingTutor = {
             "\t\t\t\tHow can I help you?",
             "  \t\t\t\t  ",
             "Hi Chris, my name's Tim",
-            "\t\t\t\tCould help me with my writing?",
+            "\t\t\t\tI need help with my writing",
             "\t\t\t\tI'm working on an essay for",
             "\t\t\t\tGeorge Orwell's book \"1984.\"", 
             "  \t\t\t\t  ",

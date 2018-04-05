@@ -113,7 +113,7 @@ BreakoutICS.lrcTutor = {
             "\t\t\t\tand 211 Tutor.  How can I help you?",
             "  \t\t\t\t  ",
             "Hi Tina, my name's Tim",
-            "\t\t\t\tI need help with a 110 assignemnt",
+            "\t\t\t\tI need help with a 110 assignment",
             "\t\t\t\tcan you help me?", 
             "  \t\t\t\t  ",
             "Show me the code!"
