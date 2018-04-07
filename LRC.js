@@ -83,7 +83,7 @@ BreakoutICS.LRC = {
         };
 
         this.introText = [
-            "The Learning Resource Commons", 
+            "The learning Resource Center", 
             "is a friendly place where",
             "you can get help with your courses",
             "ICS 111, 211, 212 included",

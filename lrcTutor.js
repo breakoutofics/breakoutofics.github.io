@@ -107,7 +107,7 @@ BreakoutICS.lrcTutor = {
 
         this.introText = [
             "     ",
-            "Welcome to the Learning Resource Commons",
+            "Welcome to the Learning Resource Center",
             "Or LRC for short",
             "\t\t\t\tMy name's Tina, i'm an ICS 110, 111,",
             "\t\t\t\tand 211 Tutor.  How can I help you?",
